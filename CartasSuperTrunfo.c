@@ -78,9 +78,5 @@ int main(){
     printf("PIB per capita: %.2f Milhoes\n", PIB_per_capita);
     
 
-
-
-
-
     return 0;
 }
